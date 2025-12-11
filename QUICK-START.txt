@@ -1,0 +1,126 @@
+═══════════════════════════════════════════════════════════════
+    AD GROUP WEBSITE - QUICK START GUIDE
+═══════════════════════════════════════════════════════════════
+
+📁 YOUR FILES:
+   - index.html        (Main website page)
+   - styles.css        (All colors and styling)
+   - script.js         (Interactive features)
+   - EDITING-GUIDE.md  (How to customize)
+   - HOSTING-GUIDE.md  (How to put online)
+
+═══════════════════════════════════════════════════════════════
+
+✏️ HOW TO EDIT:
+
+1. RIGHT-CLICK any file → "Open with Notepad"
+2. Make your changes
+3. SAVE (Ctrl + S)
+4. REFRESH browser (F5)
+
+Common Changes:
+• Company name    → index.html, line 19
+• Contact info    → index.html, lines 380-407
+• Colors          → styles.css, lines 5-9
+• Hero text       → index.html, lines 45-51
+• Statistics      → index.html, lines 57-67
+
+Full guide: Open EDITING-GUIDE.md
+
+═══════════════════════════════════════════════════════════════
+
+🌐 HOW TO HOST (FREE):
+
+RECOMMENDED: Netlify (Easiest!)
+
+1. Go to: https://www.netlify.com
+2. Sign up (free)
+3. Drag your "ad-group-website" folder onto the page
+4. Wait 30 seconds
+5. Your site is LIVE!
+
+You get: yoursite.netlify.app (FREE forever)
+
+Full guide: Open HOSTING-GUIDE.md
+
+═══════════════════════════════════════════════════════════════
+
+🎨 WHAT'S NEW IN THIS VERSION:
+
+✅ Premium gold & black color scheme
+✅ Modern Poppins font
+✅ Real professional images (6 total)
+✅ Floating particle animations
+✅ 3D service card effects
+✅ Gradient button animations
+✅ Image zoom on hover
+✅ Enhanced shadows and depth
+✅ Fully responsive design
+
+Details: Open DESIGN-UPDATES.md
+
+═══════════════════════════════════════════════════════════════
+
+🚀 GET ONLINE IN 3 STEPS:
+
+Step 1: Customize (optional)
+   • Update your contact info
+   • Add your company details
+   • Replace with your images
+
+Step 2: Host for FREE
+   • Go to netlify.com
+   • Drag & drop your folder
+   • Get your live URL
+
+Step 3: Share
+   • Send URL to clients
+   • Add to business cards
+   • Post on social media
+
+═══════════════════════════════════════════════════════════════
+
+📝 EDITING TOOLS (Free):
+
+• VS Code (Best)         → https://code.visualstudio.com
+• Notepad++ (Simple)     → https://notepad-plus-plus.org
+• Sublime Text (Fast)    → https://www.sublimetext.com
+
+Tip: VS Code + "Live Server" extension = see changes instantly!
+
+═══════════════════════════════════════════════════════════════
+
+💰 COSTS:
+
+Hosting:        $0/year (FREE!)
+Custom domain:  $12/year (optional - makes it look professional)
+
+Total: $0-12 per year
+
+═══════════════════════════════════════════════════════════════
+
+🆘 NEED HELP?
+
+1. Check EDITING-GUIDE.md for customization help
+2. Check HOSTING-GUIDE.md for deployment help
+3. Check browser console (F12) for errors
+4. Netlify has free support chat
+
+═══════════════════════════════════════════════════════════════
+
+✅ YOUR NEXT STEPS:
+
+1. [ ] Open the website in browser (double-click index.html)
+2. [ ] Make it yours (edit contact info)
+3. [ ] Host it online (use Netlify)
+4. [ ] Share your new website!
+
+═══════════════════════════════════════════════════════════════
+
+🎉 YOU'RE ALL SET!
+
+Your professional oil & gas services website is ready to go live!
+
+Location: C:\Users\hp\ad-group-website\
+
+═══════════════════════════════════════════════════════════════
